@@ -205,9 +205,30 @@ Overall, this project helped develop practical skills in Python programming, dat
 social-media-engagement-analytics/
 │
 ├── README.md
-├── Module_5_Social_Media_Engagement_Analytics.ipynb
-└── social_media_engagement_5000.csv
+│
+├── notebooks/
+│   └── Module_5_Social_Media_Engagement_Analytics.ipynb
+│
+├── docs/
+│   ├── Social_Media_Engagement_Analytics_Summary.docx
+│   └── DA_V8_M5_Data_Analysis_Assignment_Brief.docx
+│
+└── data/
+    └── social_media_engagement_5000.csv
 ```
+
+### 📄 Project Documentation
+
+This repository includes the following supporting documents:
+
+1. **Project Summary:** A one-page summary highlighting the project overview, key findings, analytical insights, and conclusion.
+
+2. **Assignment Brief:** The original Module 5 Python for Data Analysis assignment instructions, including project requirements, evaluation criteria, and deliverables.
+
+3. **Jupyter Notebook:** The complete Python analysis, including data cleaning, exploratory analysis, statistical calculations, and visualizations.
+
+4. **Dataset:** The CSV dataset used for the social media engagement analysis.
+
 
 ## 🚀 How to Run This Project
 
